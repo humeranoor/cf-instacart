@@ -4,7 +4,7 @@ This is a demonstration of best practices applied for creating github repository
 
 
 ## Objective
-![instacart logo](instacart-logo.jpeg)
+![instacart logo](https://github.com/humeranoor/cf-instacart/blob/main/instacart-logo.jpg)
 
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. The objective of this study is to analyse customer behhavior and uncover patterns for growth.
 
